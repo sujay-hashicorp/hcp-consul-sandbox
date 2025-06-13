@@ -1,5 +1,5 @@
 # Configuration file for ignoring files in a Git repository
-#.env
+.env
 
 # Editor and IDE files
 .idea
