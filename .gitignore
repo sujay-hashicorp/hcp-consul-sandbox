@@ -1,0 +1,15 @@
+# Configuration file for ignoring files in a Git repository
+#.env
+
+# Editor and IDE files
+.idea
+.vscode
+.DS_Store
+
+# Terraform Files
+**/*.terraform
+*.tfstate
+*.tfplan
+*.tfvars
+*.tfstate.backup
+.terraform.lock.hcl

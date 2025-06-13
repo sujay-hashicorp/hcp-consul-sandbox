@@ -1,0 +1,11 @@
+{
+    "consul_cluster": "DATACENTER_NAME",
+    "project_id": "PROJECT_ID",
+    "hvn": {
+        "id": "HVN_ID",
+        "provider": "CLOUD_PROVIDER",
+        "region": "REGION",
+        "cidr": "HCP_CIDR_BLOCK"
+    },
+    "admin_token": "ADMIN_TOKEN"
+}
